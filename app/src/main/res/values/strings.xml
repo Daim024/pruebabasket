@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Basket</string>
+    <string name="head_team_a">TEAM A</string>
+    <string name="action_add_goll">+1 GOL</string>
+    <string name="head_team_b">TEAM B</string>
+</resources>
